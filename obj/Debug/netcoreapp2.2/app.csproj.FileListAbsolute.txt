@@ -1,0 +1,13 @@
+C:\Users\Noah\app\bin\Debug\netcoreapp2.2\app.deps.json
+C:\Users\Noah\app\bin\Debug\netcoreapp2.2\app.runtimeconfig.json
+C:\Users\Noah\app\bin\Debug\netcoreapp2.2\app.runtimeconfig.dev.json
+C:\Users\Noah\app\bin\Debug\netcoreapp2.2\app.dll
+C:\Users\Noah\app\bin\Debug\netcoreapp2.2\app.pdb
+C:\Users\Noah\app\obj\Debug\netcoreapp2.2\app.csproj.CoreCompileInputs.cache
+C:\Users\Noah\app\obj\Debug\netcoreapp2.2\app.AssemblyInfoInputs.cache
+C:\Users\Noah\app\obj\Debug\netcoreapp2.2\app.AssemblyInfo.cs
+C:\Users\Noah\app\obj\Debug\netcoreapp2.2\app.dll
+C:\Users\Noah\app\obj\Debug\netcoreapp2.2\app.pdb
+C:\Users\Noah\app\obj\Debug\netcoreapp2.2\app.csproj.AssemblyReference.cache
+C:\Users\Noah\app\obj\Debug\netcoreapp2.2\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noah\app\obj\Debug\netcoreapp2.2\app.genruntimeconfig.cache

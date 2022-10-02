@@ -1,0 +1,15 @@
+C:\NeuralTest\bin\Debug\net6.0\NeuralTest.exe
+C:\NeuralTest\bin\Debug\net6.0\NeuralTest.deps.json
+C:\NeuralTest\bin\Debug\net6.0\NeuralTest.runtimeconfig.json
+C:\NeuralTest\bin\Debug\net6.0\NeuralTest.dll
+C:\NeuralTest\bin\Debug\net6.0\NeuralTest.pdb
+C:\NeuralTest\obj\Debug\net6.0\NeuralTest.csproj.AssemblyReference.cache
+C:\NeuralTest\obj\Debug\net6.0\NeuralTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\NeuralTest\obj\Debug\net6.0\NeuralTest.AssemblyInfoInputs.cache
+C:\NeuralTest\obj\Debug\net6.0\NeuralTest.AssemblyInfo.cs
+C:\NeuralTest\obj\Debug\net6.0\NeuralTest.csproj.CoreCompileInputs.cache
+C:\NeuralTest\obj\Debug\net6.0\NeuralTest.dll
+C:\NeuralTest\obj\Debug\net6.0\refint\NeuralTest.dll
+C:\NeuralTest\obj\Debug\net6.0\NeuralTest.pdb
+C:\NeuralTest\obj\Debug\net6.0\NeuralTest.genruntimeconfig.cache
+C:\NeuralTest\obj\Debug\net6.0\ref\NeuralTest.dll
